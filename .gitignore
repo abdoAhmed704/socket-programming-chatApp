@@ -1,0 +1,8 @@
+# Compiled programs
+socket-client/client
+socket-client/out
+socket-server/server
+
+# Crash dumps
+core
+core.*
